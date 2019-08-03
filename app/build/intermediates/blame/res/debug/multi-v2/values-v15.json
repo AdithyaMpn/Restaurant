@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mpnad\\AndroidStudioProjects\\Restaurant\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v15\\values-v15.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mpnad\\.gradle\\caches\\transforms-2\\files-2.1\\d17bc5ad903316f1a6ccb2d06dce3ee5\\res\\values-v15\\values-v15.xml",
+                    "from": {
+                        "startLines": "2,5,8,11,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,201,333,471,599",
+                        "endLines": "4,7,10,13,16",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "196,328,466,594,732"
+                    }
+                }
+            ]
+        }
+    ]
+}

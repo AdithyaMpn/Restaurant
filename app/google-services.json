@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263811324469",
+    "firebase_url": "https://restaurant-5498.firebaseio.com",
+    "project_id": "restaurant-5498",
+    "storage_bucket": "restaurant-5498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263811324469:android:7bcf5d70e93f92ba",
+        "android_client_info": {
+          "package_name": "com.adithya.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263811324469-312uj3po026bsi59q1vibdkh1jbudkpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.restaurant",
+            "certificate_hash": "b092a05dbc224b94025c35970d93694c6d72ff86"
+          }
+        },
+        {
+          "client_id": "263811324469-860v77bu71kkannk9t2p649jg1ukpccd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0RxF5CG-7f2BVWwGK73BZSYJoORJpTV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263811324469-860v77bu71kkannk9t2p649jg1ukpccd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

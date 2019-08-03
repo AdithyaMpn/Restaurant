@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jul 10 13:49:57 IST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\mpnad\\AndroidStudioProjects\\AccountKitLoginSolution\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.path=fonts/avenir-black.ttf
+0.set=ASSET
+count=1

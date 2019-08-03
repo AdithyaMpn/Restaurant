@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="FACEBOOK_APP_ID">353788961972075</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">5e8ec356fbeda4e9163f0bf66f728533</string>
+    <string name="ak_login_protocol_scheme">ak353788961972075</string>
+    <string name="login_email_label">Login with Email</string>
+    <string name="login_phone_label">Login with Phone Number</string>
+    <string name="account">Account</string>
+    <string name="id_label">Account ID</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="email_label">Email</string>
+    <string name="logout_label">Log Out</string>
+    <string name="title_activity_restaurants_menu">RestaurantsMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
